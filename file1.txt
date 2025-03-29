@@ -1,1 +1,2 @@
 world
+git log --oneline --all --graph -10!
